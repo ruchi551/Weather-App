@@ -1,4 +1,8 @@
-# 🌦 Weather App
+# Weather App 🌦️
+
+A simple weather application that shows real-time weather data using an API.
+
+🔗 Live Demo: https://ruchi551.github.io/Weather-App/
 
 A responsive weather application that fetches real-time weather data using the OpenWeatherMap API.  
 Users can search for any city to view current temperature, humidity, wind speed, and weather conditions.
